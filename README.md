@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tachan-t
 - 👀 I’m interested in always learning news things
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 📫 How to reach me: silvabez347@gmail.com
+- 🌱 I’m currently learning IA
+- 📫 How to reach me: natachasilvs22@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love massa
 
